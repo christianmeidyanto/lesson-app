@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My New Website",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et blanditiis tempore pariatur, eos perspiciatis nam magni itaque dolorum cupiditate dicta!",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Welcome party!",
+      "body": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Et blanditiis tempore pariatur, eos perspiciatis nam magni itaque dolorum cupiditate dicta!",
+      "author": "mario",
+      "id": 2
+    }
+  ]
+}
